@@ -1,0 +1,10 @@
+body {
+    background-color: #D6D0CE;
+}
+
+.main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top: 20px;
+}
